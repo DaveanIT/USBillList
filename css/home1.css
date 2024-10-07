@@ -663,6 +663,9 @@
 #crd-btn{
   display: none;
 }
+#billgrid{
+  display: none;
+}
 .grid-view-btn {
   font-family: var(--base-font-family);
   font-size: 14px;
