@@ -663,9 +663,6 @@
 #crd-btn{
   display: none;
 }
-#grd-btn{
-  display: none;
-}
 .grid-view-btn {
   font-family: var(--base-font-family);
   font-size: 14px;
